@@ -1,16 +1,16 @@
-{
-
-    "heroku": {
-        "url": "london-astrobot.herokuapp.com",
-        "checkInterval": 5
-    },
-    
-    "slack": {
-        "token": "xoxb-40556896611-RYk7rxxdhsLuv4fmiJZItNMV"
-    },
-    
-    "nasa": {
-        "apiKey": "ppJoK4qj676zHOl3BQhSwkmAl3I0pfQtokON2upH"
-    }
-
-}
++{
+ +
+ +    "heroku": {
+ +        "url": "http://ancient-shore-4819.herokuapp.com",
+ +        "checkInterval": 5
+ +    },
+ +    
+ +    "slack": {
+ +        "token": "xoxb-8952060609-DKLOV3KXRS3aynsZG9WEhsPz"
+ +    },
+ +    
+ +    "nasa": {
+ +        "apiKey": "v0vtLtffGVJEGa7O86c467o3lZTjxk8dvFe0RlY9"
+ +    }
+ +
+ +}
