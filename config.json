@@ -1,7 +1,7 @@
 {
 
     "heroku": {
-        "url": "http://ancient-shore-4819.herokuapp.com",
+        "url": "london-astrobot.herokuapp.com",
         "checkInterval": 5
     },
     
